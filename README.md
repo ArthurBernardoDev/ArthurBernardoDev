@@ -13,11 +13,11 @@
 [Facebook](https://www.facebook.com/arthur.simoes.391/) :point_left:
 [Whats](https://api.whatsapp.com/send?phone=5531998209527&text=Conversar%20com%20Arthur) :point_left:
 
-## Minhas Estatísticas e Linguages :man_technologist:
+## Minhas Linguages :man_technologist:
 
 <p>
   <a href="https://github.com/ArthurBernardoDev">
-    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=ArthurBernadoDev&show_icons=true&theme=omni" alt="ArthurBernardoDev | Stats" />
+    
     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&langs_count=6&theme=omni&layout=compact" alt="ArthurBernardoDev | Langs" />
  </a>
 </p>
