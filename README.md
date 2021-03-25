@@ -15,7 +15,7 @@
 
 ## Minhas Estatísticas e Linguages :man_technologist:
 <a href="https://github.com/ArthurBernarDev">
-    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=NicolasBarletta&show_icons=true&theme=omni" alt="ArthurBernardoDex | Stats" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&show_icons=true&theme=omni" alt="ArthurBernardoDex | Stats" />
 <p>
   <a href="https://github.com/ArthurBernardoDev">
     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&langs_count=6&theme=omni&layout=compact" alt="ArthurBernardoDev | Langs" />
