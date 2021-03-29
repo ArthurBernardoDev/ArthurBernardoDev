@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/arthur_bernardoxds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-bernardo-a636b3180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Minhas Estatísticas e Linguages :man_technologist:
+## Minhas Estatísticas e Linguagens :man_technologist:
 <a href="https://github.com/ArthurBernarDev">
     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&show_icons=true&theme=omni" alt="ArthurBernardoDex | Stats" />
 <p>
