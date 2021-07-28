@@ -19,10 +19,10 @@
 
 ## Minhas Estatísticas e Linguagens 👨‍💻
 
-[![ArthurBernardoDev](https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&show_icons=true&theme=omni)](https://github.com/ArthurBernardoDev) <br/>
-![ArthurBernardoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&langs_count=6&theme=omni&layout=compact)<br/>
+[![ArthurBernardoDev](https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&show_icons=true&theme=dark)](https://github.com/ArthurBernardoDev) <br/>
+![ArthurBernardoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&langs_count=6&theme=dark&layout=compact)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurBernardoDev&theme=omni)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArthurBernardoDev&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 
 ---
 
