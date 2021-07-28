@@ -19,8 +19,8 @@
 
 ## Minhas Estatísticas e Linguagens 👨‍💻
 
-[![ArthurBernardoDev](https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&show_icons=true&theme=blueberry_duo)](https://github.com/ArthurBernardoDev) <br/>
-![ArthurBernardoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&langs_count=6&theme=blueberry_duo&layout=compact)<br/>
+[![ArthurBernardoDev](https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&show_icons=true&theme=blueberry)](https://github.com/ArthurBernardoDev) <br/>
+![ArthurBernardoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&langs_count=6&theme=blueberry&layout=compact)<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArthurBernardoDev&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)<br/>
 
