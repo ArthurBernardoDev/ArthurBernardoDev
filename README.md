@@ -1,4 +1,4 @@
-# Olá! meu nome é Arthur Bernardo! :wink:
+# Olá! meu nome é Arthur Bernardo!! :wink:
 
 <ul>
     <li>Autodidata</li>
