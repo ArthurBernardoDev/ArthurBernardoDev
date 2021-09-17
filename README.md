@@ -2,7 +2,6 @@
 
 <ul>
     <li>Autodidata</li>
-    <li>Aberto para novas propostas de trabalho</li>
     <li>Cursando ADS na Puc Minas</li>
 </ul>
 
