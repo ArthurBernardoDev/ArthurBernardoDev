@@ -16,10 +16,10 @@
 
 ## Minhas Estatísticas e Linguagens 👨‍💻
 
-[![ArthurBernardoDev](https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&show_icons=true)](https://github.com/ArthurBernardoDev) <br/>
-![ArthurBernardoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&langs_count=6&layout=compact)<br/>
+[![ArthurBernardoDev](https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&dark&show_icons=true)](https://github.com/ArthurBernardoDev) <br/>
+![ArthurBernardoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&dark&langs_count=6&layout=compact)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurBernardoDev)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthurBernardoDev&dark)](https://git.io/streak-stats)
 
 
 
