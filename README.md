@@ -1,7 +1,6 @@
 # Olá! meu nome é Arthur Bernardo!! :wink:
 
 <ul>
-    <li>Autodidata</li>
     <li>Cursando ADS na Puc Minas</li>
 </ul>
 
