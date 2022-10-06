@@ -15,9 +15,6 @@
 
 ## Minhas Estatísticas e Linguagens 👨‍💻
 
-[![ArthurBernardoDev](https://github-readme-stats.vercel.app/api?username=ArthurBernardoDev&theme=dark&show_icons=true)](https://github.com/ArthurBernardoDev) <br/>
-![ArthurBernardoDev](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBernardoDev&theme=dark&langs_count=6&layout=compact)<br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArthurBernardoDev&theme=dark)](https://git.io/streak-stats)<br/>
 
 
