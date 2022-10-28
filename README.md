@@ -1,7 +1,6 @@
 # Olá! meu nome é Arthur Bernardo!! :wink:
 
 <ul>
-    <li>Autodidata</li>
     <li>Cursando ADS na Puc Minas</li>
 </ul>
 
@@ -29,3 +28,5 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Arthur-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/ArthurBernardoDev/)
